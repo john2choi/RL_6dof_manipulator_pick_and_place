@@ -1,0 +1,1 @@
+# RL_6dof_manipulator_pick_and_place
