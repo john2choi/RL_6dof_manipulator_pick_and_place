@@ -1,7 +1,7 @@
-# RL_6dof_manipulator_pick_and_place
+# RL-based 6dof manipulator pick and place
 
 
-My envs:
+# My envs:
 Ubuntu 22.04;
 python 3.9;
 mujoco 2.3.7;
