@@ -1,4 +1,4 @@
-# RL-based 6dof manipulator pick and place
+# RL-based pick-point autogeneration and grasping algorithm using Delto gripper(Tesollo DG3F) and 6dof robot arm
 
 
 ### My envs:
