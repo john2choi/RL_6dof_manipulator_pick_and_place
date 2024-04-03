@@ -5,7 +5,7 @@
 - Ubuntu 22.04
 - python 3.9
 - ROS2 Humble
-- Isaac Sim
+- Isaac Sim 2023.1.1
 - Isaac Gym
 
 '''
