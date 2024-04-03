@@ -1,4 +1,4 @@
-# RL-based pick-point autogeneration and grasping algorithm using Delto gripper(Tesollo DG3F) and 6dof robot arm
+# RL-based pick-point autogeneration and grasping algorithm using Delto gripper (Tesollo DG3F) and 6dof robot arm (Techman TM5-900)
 
 
 ### My envs:
