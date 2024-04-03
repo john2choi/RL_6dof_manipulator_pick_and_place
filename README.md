@@ -4,6 +4,7 @@
 ### My envs:
 - Ubuntu 22.04
 - python 3.9
+- ROS2 Humble
 - Isaac Sim
 - Isaac Gym
 
